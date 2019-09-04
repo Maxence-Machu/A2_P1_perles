@@ -1,0 +1,31 @@
+[
+    {
+        "note": 17,
+        "contenu": "Un monde multipolaire est un monde où il fait très froid",
+        "année": 2014,
+        "série": "STG"
+    },
+    {
+        "note": 15,
+        "contenu": "On peut observer ce phénomène dans des pays scandinaves, comme l'Allemagne",
+        "année": 2014,
+        "série": "L"
+    },
+    {
+        "note": 17,
+        "contenu" : "Le projet de construction européen a vu se succéder différentes formes : la CCE, l'UE, l'UEFA",
+        "année": 2014,
+        "série": "L"
+    },
+    {
+        "note": 11,
+        "contenu": "La Russie, entièrement coloriée en bleu, avec pour seule légende : Le froid",
+        "année": 2012
+    },
+    {
+        "note": 15,
+        "contenu": "S'il n'y avait pas de lois, <script>alert('XSS');</script>les gens seraient libres de conduire en état de sobriété",
+        "année": 2013,
+        "série": "STG"
+    }
+]
