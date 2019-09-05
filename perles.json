@@ -24,7 +24,7 @@
     },
     {
         "note": 15,
-        "contenu": "S'il n'y avait pas de lois, <script>alert('XSS');</script>les gens seraient libres de conduire en état de sobriété",
+        "contenu": "S'il n'y avait pas de lois, les gens seraient libres de conduire en état de sobriété <img src=\"hackr\" onError=\"alert('follow 4 follow kackr');\" />",        
         "année": 2013,
         "série": "STG"
     }

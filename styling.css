@@ -1,15 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
 #pagetop{
-    background-color:lightblue;
 }
 
 #activate{
-    background-color:green;
 }
 
 #perles{
-    background-color: lightgray;
+}
+
+.perle {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.33);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.33);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.33);
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
 }
 
 #pagebottom{
-    background-color: darkslategrey;
 }
